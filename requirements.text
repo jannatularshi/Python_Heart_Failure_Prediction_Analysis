@@ -1,0 +1,8 @@
+List of libraries required to run the project:
+
+1. Pandas- For data manupulation and loading the dataset.
+2. Numpy- For numeric computations and handling arrays.
+3. Matplotlib- For basic data visualizations (bar plot,scatter plot,histograms).
+4. Seaborn- For enhanched statitical visualizations (heatmaps,pair plot,box plot).
+5. Scipy- For performing statitical tests like T-test, Chi-square test, Pearson Correlation.
+ 
