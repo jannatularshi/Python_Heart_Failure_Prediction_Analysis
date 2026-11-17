@@ -16,10 +16,15 @@ The main objectives of this project are to:
 
 ## Dataset Information
 The dataset is sourced from **Kaggle's Heart Failure Clinical Records Dataset**.
+
 It contains clinical records of 299 patients with heart failure and 13 variables, including demographic information, medical conditions, laboratory measurements, and follow-up duration.The target variable is DEATH_EVENT, which indicates whether a patient died during the follow-up period.
+
 **Total Records**: 299
+
 **Total Columns**: 13
+
 **Target Variable**: DEATH_EVENT
+
 **Source**: Kaggle - Heart Failure Clinical Records Dataset
 
 ## Columns:
@@ -47,10 +52,10 @@ It contains clinical records of 299 patients with heart failure and 13 variables
 
 ## Methodology
 **1. Data Loading and Preprocessing**
-    -Loaded the dataset using Pandas.
-    -Inspected dataset structure, data types, and summary statistics.
-    -Checked for missing values and duplicate records.
-    -Prepared the data for exploratory and statistical analysis.
+Loaded the dataset using Pandas.
+    - Inspected dataset structure, data types, and summary statistics.
+    - Checked for missing values and duplicate records.
+    - Prepared the data for exploratory and statistical analysis.
 **2. Exploratory Data Analysis (EDA)**
     -Analyzed numerical and categorical variables.
     -Examined distributions of clinical features.
